@@ -1,0 +1,5 @@
+# Ignore data files created by pickle
+*.dat
+
+# Ignore Python's compiled bytecode cache
+__pycache__/
